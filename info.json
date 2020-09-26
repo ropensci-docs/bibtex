@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7ccf8eae7e2c6c3e1138662da12d30660fdd7bab",
+    "author": "James Balamuta <balamut2@illinois.edu>",
+    "time": "2020-09-26 02:24:40",
+    "files": 1,
+    "merge": true,
+    "message": "Merge branch 'ms609-patch-1' close #19\n"
+  },
+  "remote": "https://github.com/ropensci/bibtex",
+  "pkg": "bibtex"
+}

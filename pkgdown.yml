@@ -1,0 +1,9 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2021-07-08T08:02Z
+urls:
+  reference: https://docs.ropensci.org/bibtex/reference
+  article: https://docs.ropensci.org/bibtex/articles
+
