@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/news/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/reference/bibtex-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/reference/do_read_bib.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/reference/read.bib.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bibtex/reference/write.bib.html</loc>
+  </url>
+</urlset>

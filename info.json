@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "12f8befe33e67c7069cab6735ddb4618e5ec568a",
+    "author": "James J Balamuta <coatless@users.noreply.github.com>",
+    "time": "2023-11-22 06:09:38",
+    "files": 2,
+    "merge": false,
+    "message": "Update github actions to latest (#55)\n\n"
+  },
+  "repo": "https://github.com/ropensci/bibtex",
+  "pkg": "bibtex"
+}
