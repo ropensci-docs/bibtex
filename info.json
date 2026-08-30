@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "5a79a0a797f6d61cf8cbe372ee0d13cd43a7d229",
+    "author": "James J Balamuta <coatless@users.noreply.github.com>",
+    "time": "2026-02-02T18:56:08Z",
+    "files": 4,
+    "merge": false,
+    "message": "Add BibLaTeX compatibility for date and journaltitle fields (#56, #57) (#63)\n\n- Handle YYYY-MM date format by appending \"-01\" before parsing (#56)\n- Map journaltitle to journal field for BibLaTeX files (#57)\n- Add tryCatch around date parsing to handle errors gracefully"
+  },
+  "repo": "https://github.com/ropensci/bibtex",
+  "pkg": "bibtex",
+  "time": "2026-08-30T07:31:10Z"
+}
